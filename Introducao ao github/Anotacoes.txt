@@ -2,4 +2,26 @@ link para dowloads do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o usao do Git.
 www.thenilson.com
 
+Comandos usados nesta aula no Git Bash:
+colar repositorio
+git clone https://github.com/Then10/Dio-desafio-github.git
+https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view?usp=sharing
+
+Entrar na pasta
+cd nome da pasta
+
+Ver status
+git status
+
+Enviar pasta 
+git add .
+
+git commit -m "nome da pasta ou arquivo"
+
+Enviar para o repositorio do Git Hub
+git push origin main
+
+OBS: autenticar no git hub
+
+
 
